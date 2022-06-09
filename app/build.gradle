@@ -35,7 +35,7 @@ android {
 
 dependencies {
 
-    api ('org.jitsi.react:jitsi-meet-sdk:+') {transitive = true}
+    api ('org.jitsi.react:jitsi-meet-sdk:5.1.0') {transitive = true}
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'com.google.android.material:material:1.6.1'
     testImplementation 'junit:junit:4.13.2'
