@@ -19,5 +19,6 @@ dependencyResolutionManagement {
         maven { url 'https://www.jitpack.io' }
     }
 }
+
 rootProject.name = "jitsi_launcher"
 include ':app'
